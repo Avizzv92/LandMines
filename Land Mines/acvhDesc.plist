@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<string>Get yourself some training.</string>
+		<string>Safely flag a single mine.</string>
+		<string>Make it past the first field.</string>
+		<string>Clear a field before troops arrive.</string>
+		<string>Make it past 3 fields without injury.</string>
+		<string>Make it past 5 fields.</string>
+		<string>Walk on every space of any field.</string>
+		<string>Make it past 7 fields without injury.</string>
+		<string>Make it past 10 fields.</string>
+		<string>Make it past 15 fields.</string>
+		<string>Make it past 20 fields without injury.</string>
+		<string>Lose no ally troops after 25 fields.</string>
+		<string>Make it past 30 fields.</string>
+		<string>Make it past 35 fields without injury.</string>
+		<string>Lose no ally troops after 40 fields.</string>
+	</array>
+</dict>
+</plist>
